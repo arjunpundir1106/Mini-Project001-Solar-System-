@@ -1,4 +1,3 @@
-# Mini-Projects
 # Title - Solar System Visualization
 
 ## This is a mini project for the Visualization of Solar System built using Turtle
@@ -12,6 +11,9 @@ you could also draw lines to represent the orbits of the planets.
 This simple visualization can be a great way to explore the solar system and gain a better understanding of the relative positions of the planets.
 
 #Visualization
+
+![video gif](https://user-images.githubusercontent.com/72138112/213908144-f59d0e2e-0458-40d1-809f-1e9523ea79f0.gif)
+
 
 
 

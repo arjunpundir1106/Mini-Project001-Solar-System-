@@ -13,7 +13,7 @@ This simple visualization can be a great way to explore the solar system and gai
 
 #Visualization
 
-https://user-images.githubusercontent.com/72138112/213907801-28870b2f-d894-4873-8f97-59ed2587d33d.mp4
+
 
 
 
